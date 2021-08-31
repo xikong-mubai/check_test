@@ -55,7 +55,7 @@ ps插件全家桶。它们的功能如图：   对内存数据进行分析显然
 
 ### procdump
 
-提取进程的可执行文件。
+提取进程的可执行文件。通过导出可疑进程的可执行文件来对其进行逆向分析，挖掘可能存在的后面病毒木马之类的程序。
 
 ![20210831172515](https://gitee.com/ye_xi_bai/blogimage/raw/master/blogimages20210831172515.png)
 
@@ -133,7 +133,7 @@ dlllist可以看到每个进程运行需要的dll，dlldump可以导出进程运
 
 ### svcscan（限windwos）
 
-查看开启的windows服务
+查看开启的windows服务。
 
 ![20210831173413](https://gitee.com/ye_xi_bai/blogimage/raw/master/blogimages20210831173413.png)
 
@@ -145,7 +145,7 @@ dlllist可以看到每个进程运行需要的dll，dlldump可以导出进程运
 
 ### screenshot
 
-查看当前屏幕每个窗口中内容的轮廓线
+查看当前屏幕每个窗口中内容的轮廓线。
 
 ![20210831173724](https://gitee.com/ye_xi_bai/blogimage/raw/master/blogimages20210831173724.png)
 
